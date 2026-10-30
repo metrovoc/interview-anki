@@ -1,0 +1,35 @@
+{
+  "deck": "Example Corp interview",
+  "language": "ja",
+  "readings": {"山田花子": "やまだはなこ"},
+  "sections": [
+    {
+      "name": "はじめに",
+      "cards": [
+        {"id": "intro", "q": "まず自己紹介をお願いします。",
+         "a": "山田花子と申します。大学院で情報科学を専攻し、バックエンド開発のインターンを二回経験しました。御社では新規事業の開発に挑戦したいです。"}
+      ]
+    },
+    {
+      "name": "志望動機",
+      "cards": [
+        {"id": "why-us", "q": "なぜ当社を志望したのですか？",
+         "a": "一つの会社でゲームから広告まで幅広い事業に関われるからです。新しいサービスをゼロから作る経験を積みたいと考えています。"}
+      ]
+    },
+    {
+      "name": "English",
+      "cards": [
+        {"id": "intro-en", "q": "Could you introduce yourself in English?",
+         "a": "I'm Hanako Yamada, a computer science graduate student. I build backend systems, and I'd love to help launch new products here."}
+      ]
+    },
+    {
+      "name": "逆質問",
+      "cards": [
+        {"id": "reverse", "q": "最後に、何か質問はありますか？",
+         "a": "・新卒のエンジニアは、最初にどんな業務を担当することが多いですか？\n・今後の選考の流れを教えていただけますか？"}
+      ]
+    }
+  ]
+}

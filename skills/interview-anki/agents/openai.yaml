@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Anki"
+  short_description: "Predicted interview questions drilled as spoken Anki cards"
+  default_prompt: "Use $interview-anki to prepare me for my upcoming interview."
